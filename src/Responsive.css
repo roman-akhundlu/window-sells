@@ -1,0 +1,298 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+
+
+
+
+  .nav-link {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #ff934e !important;
+}
+
+
+
+
+.navbar {
+background-color: #000;
+}
+
+
+.navbar-brand img {
+ font-size: 40px;
+ width: 360px;
+}
+
+.nav-link {
+    /* color: #fff !important; */
+    margin-left: -120px;
+    margin-right: 190px;
+}
+
+.ls-2 {
+  letter-spacing: 2px;
+}
+
+
+.font-1 {
+  font-family: var(--font-1);
+}
+
+.fw-bold {
+  font-weight: 700 !important;
+}
+
+.fs-3 {
+  font-size: calc(1.3rem + .6vw) !important;
+}
+
+.teamview img {
+    width: 1517px;
+    height: 85vh;
+    filter: brightness(75%);
+}
+
+
+.texts h1 {
+    color: #fff;
+    margin-top: -250px;
+    margin-left: 625px;
+ position: relative;
+    
+}
+
+
+.texts h2 {
+  color: #fff;
+  margin-top: -360px;
+  margin-left: 480px;
+  position: relative;
+  font-size: 85px;
+}
+
+.texts h2 span {
+  color: #ff934e;
+}
+
+.font-2 {
+  font-family: var(--font-2);
+}
+
+
+.lh-1 {
+  line-height: 1 !important;
+}
+
+.fw-bold {
+  font-weight: 700 !important;
+}
+
+
+
+.texts p {
+  position: relative;
+  color: #fff;
+  margin-top: 230px;
+  margin-left: 390px;
+}
+
+.texts p span {
+  margin-left: 210px;
+}
+
+
+.awards img {
+ width: 280px;
+ position: relative;
+ margin-top: 40px;
+
+}
+
+.awards .award3 {
+  margin-left: 50px;
+}
+
+.awards .award2 {
+  margin-left: 70px;
+}
+
+
+.awards .award1 {
+  margin-left: 70px;
+}
+
+
+
+
+
+
+.card-body {
+  position: relative;
+   background-color: #ff934e;
+   width: 350px;
+   font-size: 23px;
+   height:17vh;
+   margin-left: 1100px;
+   margin-top: -160px;
+}
+
+.card-body h5 {
+  display: flex;
+  font-size: 15px;
+  margin-top: 20px;
+  color: #fff;
+  margin-left: 20px;
+}
+
+.card-body p {
+  font-size: 15px;
+  color: #fff;
+  margin-top: -10px;
+  margin-left: 20px;
+}
+
+
+.pluses h1 {
+  font-size: 14px;
+  color: #ff934e;
+  margin-top: 310px;
+  margin-left: 100px;
+}
+
+
+.pluses h2 {
+  color: #fff;
+font-size: 45px;
+margin-left: 100px;
+}
+
+
+.pluses .truepara {
+  color: #fff;
+  margin-left: 700px;
+  margin-top: -120px;
+}
+
+.pluses .wider {
+  width:700px;
+  height: 400px;
+  margin-top: 160px;
+  margin-left: 80px;
+}
+
+
+.pluses h3 {
+  font-size: 18px;
+  margin-left: 900px;
+  margin-top: -380px;
+  color: #fff;
+}
+
+
+.pluses .longpara {
+  margin-left: 900px;
+  margin-top: 20px;
+  color: #fff;
+}
+
+.pluses .firstplus {
+  font-size: 54px;
+  margin-left: 950px;
+  margin-top: 100px;
+  color: #ff934e;
+}
+
+
+.pluses h4 {
+  font-size: 20px !important;
+  margin-left: 930px;
+  color: #fff;
+}
+
+
+.pluses h6 {
+  color: #ff934e;
+  font-size: 54px;
+  margin-left: 1280px;
+  margin-top: -105px;
+}
+
+
+.pluses .fourthplus {
+  font-size: 25px;
+  margin-left: 1250px;
+}
