@@ -108,8 +108,44 @@ const Roman = () => {
       <section className='hypnothis'>
         <div className='backimg'>
           <img src="./src/assets/liquifer.png" alt="" />
-          <h5 className='lh-1 ls-2 fw-bold font-1'>SERVICES</h5>
+          <h5 className='lh-1 ls-2 fw-bold font-1 firsth5'>SERVICES</h5>
+          <h4 className='firsth4'>WHAT SERVICE WE OFFER ?</h4>
         </div>
+
+        <div className='service1'>
+        <i class="fa-solid fa-film"></i>
+        <h1 className='roboto-bold'>FILM PRODUCTION</h1>
+        <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit. Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
+        </div>
+
+        <div className='service2'>
+        <i class="fa-solid fa-photo-film"></i>
+          <h1 className='roboto-bold'>CREATIVE DIRECTION</h1>
+          <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.  Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
+        </div>
+
+        <div className='service3'>
+      <i class="fa-solid fa-video"></i>
+      <h2 className='roboto-bold'>TVC PRODUCTION</h2>
+      <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.  Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
+       </div>
+
+      <div className='service4'>
+      <i class="fa-solid fa-music"></i>
+      <h3 className='roboto-bold'>MUSIC VIDEO</h3>
+      <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.  Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
+       </div>
+      </section>
+
+
+      <section className='stories'>
+        <h1 className='lh-1 ls-2 fw-bold font-1'>STORY</h1>
+        <h2>STORY BEHIND CINESTAR</h2>
+        <p className='firstparastor'>Aliquam ex lacus, venenatis id finibus ut, scelerisque at felis. Nulla facilisi. Sed <br /> fringilla enim consectetur cursus euismod. Sed vel magna in ex malesuada rhoncus <br /> ac a turpis.</p>
+      <p className='secondparastor'>” Vivamus quam lectus, facilisis a massa facilisis, imperdiet maximus nunc. Integer <br /> ut metus eget lectus imperdiet pulvinar in ac urna “</p>
+      <h3 className='roboto-medium'>DYAS KARDINAL</h3>
+      <h4 className='roboto-medium'>CEO OF CINESTAR</h4>
+      <img src="./src/assets/rejissor.jpg" alt="" />
       </section>
     </>
   );
