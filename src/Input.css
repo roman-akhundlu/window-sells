@@ -70,108 +70,42 @@
     font-style: italic;
   }
 
+
+
+
+
+
+.premaking img {
+    margin-top: 80px;
+    margin-left: 3px;
+    width: 1507px;
+    opacity: 0.3;
+    height: 700px;
+    filter: brightness(1000px);
+  }
   
-.teamview img {
-    width: 1517px;
-    height: 85vh;
-    filter: brightness(75%);
-}
-
-
-.texts h1 {
-    color: #fff;
-    margin-top: -250px;
-    margin-left: 625px;
- position: relative;
-    
-}
-
-
-.texts h2 {
-  color: #fff;
-  margin-top: -360px;
-  margin-left: 480px;
-  position: relative;
-  font-size: 85px;
-}
-
-.texts h2 span {
-  color: #ff934e;
-}
-
-.font-2 {
-  font-family: var(--font-2);
-}
-
-
-.lh-1 {
-  line-height: 1 !important;
-}
-
-.fw-bold {
-  font-weight: 700 !important;
-}
+  
+  .premaking .namewrite {
+    margin-top: -200px;
+  }
+  
+   input, textarea {
+    background-color: transparent !important;
+    border: none !important;
+    border-bottom: 1px solid #fff !important;
+    position: relative !important;
+    border-left: 3px solid #fff !important;
+    width: 600px !important;
+    }
+  
+  .form-control::placeholder {
+    color: #fff !important;
+  }
 
 
 
-.texts p {
-  position: relative;
-  color: #fff;
-  margin-top: 230px;
-  margin-left: 390px;
-}
-
-.texts p span {
-  margin-left: 210px;
-}
-
-
-.awards img {
- width: 280px;
- position: relative;
- margin-top: 40px;
-
-}
-
-.awards .award3 {
-  margin-left: 50px;
-}
-
-.awards .award2 {
-  margin-left: 70px;
-}
-
-
-.awards .award1 {
-  margin-left: 70px;
-}
-
-
-
-
-
-
- .card-body {
-  position: relative;
-   background-color: #ff934e;
-   width: 350px;
-   font-size: 23px;
-   height:17vh;
-   margin-left: 1100px;
-   margin-top: -160px;
-}
-
-.card-body h5 {
-  display: flex;
-  font-size: 15px;
-  margin-top: 20px;
-  color: #fff;
-  margin-left: 20px;
-}
-
-.card-body p {
-  font-size: 15px;
-  color: #fff;
-  margin-top: -10px;
-  margin-left: 20px;
+  .premaking input,
+.premaking textarea {
+  color: #fff !important;
+  font-size: 23px;
 }

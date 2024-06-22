@@ -1,0 +1,421 @@
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+.stories h1 {
+    font-size: 18px;
+    color: #ff934e;
+    margin-top: 300px;
+    margin-left: 130px;
+  }
+  
+  
+  .stories h2 {
+    font-size: 40px;
+    position: relative;
+    color: #fff;
+    margin-left: 130px;
+    margin-top: 15px;
+  }
+  
+  
+  .stories p {
+    color: #fff;
+    position: relative;
+    justify-content: space-between;
+    margin-left: 110px;
+    margin-top: 20px;
+  }
+  
+  
+  .stories .secondparastor {
+    margin-top: 30px;
+  }
+  
+  .stories h3 {
+    color: #ff934e;
+    font-size: 18px;
+    margin-left: 110px;
+    margin-top: 50px;
+  }
+  
+  
+  .stories h4 {
+    color: #fff;
+    position: relative;
+    margin-left: 110px;
+    font-size: 16px;
+  }
+  
+  
+  .stories img {
+    width: 710px;
+    height: 500px;
+    margin-left: 740px;
+    margin-top: -350px;
+  }
+  
+  
+  .reviews .openingtext {
+    font-size: 18px;
+    color: #ff934e;
+    margin-top: 200px;
+    margin-left: 660px;
+  }
+  
+  
+  .reviews .openingbig {
+    font-size: 35px;
+    margin-left: 420px;
+    color: #fff;
+  }
+  
+  
+  .reviews .openingpara {
+    color: #fff;
+    margin-left: 320px;
+  }
+  
+  
+  .fa-star {
+    color: #ffc107;
+  }
+  
+  .card1 {
+    width: 480px;
+    height: 210px;
+    margin-left: 40px;
+    background-color: #212121;
+    margin-top: 30px;
+    margin-left: -600px;
+  }
+  
+  
+  .card1 .fa-star {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: -23px;
+  }
+  
+  
+  
+  
+  .card1 p {
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  
+  
+  .card1 h5 {
+    font-size: 14px;
+    color: #ff934e;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  
+  .card1 h4 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: -5px;
+  }
+  
+  
+  .card1 .fa-quote-right {
+    display: flex;
+    font-size: 50px;
+    color: #7a7a7a;
+    margin-top: -50px;
+    margin-left: 370px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  .card3 {
+    width: 480px;
+    height: 210px;
+    background-color: #212121;
+    margin-top: 30px;
+    margin-left: -400px;
+  }
+  
+  
+  .card3 .fa-star {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: -23px;
+  }
+  
+  
+  .card3 p {
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  
+  
+  .card3 h5 {
+    font-size: 14px;
+    color: #ff934e;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  
+  
+  .card3 h4 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: -5px;
+  }
+  
+  
+  .card3 .fa-quote-right {
+      display: flex;
+    font-size: 50px;
+    color: #7a7a7a;
+    margin-top: -50px;
+    margin-left: 370px;
+  }
+  
+  
+  
+  .card4 {
+    width: 480px;
+    height: 210px;
+    background-color: #212121;
+    margin-left: -200px;
+    margin-top: 30px;
+  }
+  
+  
+  .card4 .fa-star {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: -23px;
+  }
+  
+  
+  .card4 p {
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  
+  
+  .card4 h5 {
+    font-size: 14px;
+    color: #ff934e;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  
+  
+  .card4 h4 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: -5px;
+  }
+  
+  
+  .card4 .fa-quote-right {
+      display: flex;
+    font-size: 50px;
+    color: #7a7a7a;
+    margin-top: -50px;
+    margin-left: 370px;
+  }
+  
+  
+  
+  .card5 {
+    width: 480px;
+    height: 210px;
+    background-color: #212121;
+    margin-top: 30px;
+  }
+  
+  
+  .card5 .fa-star {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: -23px;
+  }
+  
+  
+  .card5 p {
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  
+  
+  .card5 h5 {
+    font-size: 14px;
+    color: #ff934e;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  
+  
+  .card5 h4 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: -5px;
+  }
+  
+  
+  .card5 .fa-quote-right {
+      display: flex;
+    font-size: 50px;
+    color: #7a7a7a;
+    margin-top: -50px;
+    margin-left: 370px;
+  }
+  
+  
+  .card6 {
+    width: 480px;
+    height: 210px;
+    background-color: #212121;
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  
+  
+  .card6 .fa-star {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: -23px;
+  }
+  
+  
+  .card6 p {
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  
+  
+  .card6 h5 {
+    font-size: 14px;
+    color: #ff934e;
+    margin-top: 20px;
+    margin-left: 30px;
+  }
+  
+  
+  .card6 h4 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: -5px;
+  }
+  
+  
+  .card6 .fa-quote-right {
+      display: flex;
+    font-size: 50px;
+    color: #7a7a7a;
+    margin-top: -50px;
+    margin-left: 370px;
+  }
+
+
+
+  .ls-2 {
+    letter-spacing: 2px;
+  }
+  
+  .font-1 {
+    font-family: var(--font-1);
+  }
+  .lh-1 {
+    line-height: 1 !important;
+  }
+  .fw-bold {
+    font-weight: 700 !important;
+  }

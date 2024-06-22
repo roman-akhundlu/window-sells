@@ -1,0 +1,181 @@
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+
+
+
+
+.overlay-menu {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay-menu.show {
+  display: flex;
+}
+
+.overlay-menu-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.overlay-menu-item {
+  margin: 20px 0;
+}
+
+.overlay-menu-item a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-toggler {
+  border: none;
+  background-color: transparent;
+  color: #ff934e;
+
+}
+
+.navbar-toggler-icon {
+  background-color: #ff934e;
+  font-size: 30px;
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%2899, 99, 99, 0.5%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+
+
+
+
+
+
+
+
+  .nav-link {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #ff934e !important;
+}
+
+
+.overlay-menu-link:hover {
+  color: #ff934e !important;
+}
+
+
+.navbar {
+background-color: #000;
+}
+
+
+.navbar-brand img {
+ font-size: 40px;
+ width: 360px;
+}
+
+.nav-link {
+    /* color: #fff !important; */
+    margin-left: -120px;
+    margin-right: 190px;
+}
+
+.ls-2 {
+  letter-spacing: 2px;
+}
+
+
+.font-1 {
+  font-family: var(--font-1);
+}
+
+.fw-bold {
+  font-weight: 700 !important;
+}
+
+.fs-3 {
+  font-size: calc(1.3rem + .6vw) !important;
+}
