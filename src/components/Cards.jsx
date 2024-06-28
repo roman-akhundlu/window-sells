@@ -1,5 +1,5 @@
 import React from 'react'
-import './Cards.css'
+import './Cards.css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/navigation';
@@ -18,7 +18,7 @@ const Cards = () => {
       <p className='secondparastor'>” Vivamus quam lectus, facilisis a massa facilisis, imperdiet maximus nunc. Integer <br /> ut metus eget lectus imperdiet pulvinar in ac urna “</p>
       <h3 className='roboto-medium'>DYAS KARDINAL</h3>
       <h4 className='roboto-medium'>CEO OF CINESTAR</h4>
-      <img src="./src/assets/photos/rejissor.jpg" alt="" />
+      <img src="../src/assets/photos/rejissor.jpg" alt="" />
       </section>
 
 
@@ -37,9 +37,6 @@ const Cards = () => {
  
 
    slidesPerView={2}
-        pagination={{
-          clickable: true,
-        }}
         breakpoints={{
           640: {
             slidesPerView: 2,

@@ -1,10 +1,11 @@
 import React from 'react';
 import './Responsive.css';
-import Navbar from './Navbar'
-import Record from './Records'
-import Liquifer from './Liquiferpart';
-import Cards from './Cards';
-import Inputbe from './Inputbe';
+import Navbar from '../components/Navbar'
+import Record from '../components/Records'
+import Liquifer from '../components/Liquiferpart';
+import Cards from '../components/Cards';
+import Inputbe from '../components/Inputbe';
+import Footer1 from '../components/Footer1';
 
 
 const Roman = () => {
@@ -14,7 +15,7 @@ const Roman = () => {
 <Navbar/>
       
       <div className='teamview'>
-        <img src="./src/assets/photos/main.jpg" alt="" />
+        <img src="../src/assets/photos/main.jpg" alt="" />
       </div>
 
       <div className='texts'>
@@ -24,9 +25,9 @@ const Roman = () => {
       </div>
 
       <div className="awards d-flex h-100 align-items-center p-4">
-        <img src="./src/assets/photos/award1.png" alt="" className='award1' />
-        <img src="./src/assets/photos/award2.png" alt="" className='award2' />
-        <img src="./src/assets/photos/award1.png" alt="" className='award3' />
+        <img src="../src/assets/photos/award1.png" alt="" className='award1' />
+        <img src="../src/assets/photos/award2.png" alt="" className='award2' />
+        <img src="../src/assets/photos/award1.png" alt="" className='award3' />
       </div>
 
       <div className="card-body">
@@ -41,6 +42,8 @@ const Roman = () => {
 <Cards/>
 
 <Inputbe/>
+
+<Footer1/>
     </>
   );
 }

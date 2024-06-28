@@ -1,0 +1,290 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+
+
+
+
+.premaking img {
+    margin-top: 80px;
+    margin-left: 3px;
+    width: 1507px;
+    opacity: 0.3;
+    height: 700px;
+    filter: brightness(1000px);
+  }
+  
+  
+  .premaking .namewrite {
+    margin-top: -610px;
+    margin-left: 30px;
+  }
+
+
+  .premaking .lastwrite {
+    margin-left: 450px;
+    margin-top: -63px;
+  }
+
+
+  .premaking .mail {
+    margin-left: 30px;
+    margin-top: 60px;
+  }
+
+
+  .premaking .subwrite {
+    margin-left: 450px;
+    margin-top: -70px;
+  }
+  
+
+textarea {
+  width: 760px !important;
+  height: 170px;
+  margin-left: 27px !important;
+  margin-top: 60px !important;
+}
+
+   input, textarea {
+    background-color: transparent !important;
+    border: none !important;
+    border-bottom: 1px solid #fff !important;
+    position: relative !important;
+    border-left: 3px solid #fff !important;
+    }
+
+
+    input {
+      width: 330px !important;
+    }
+  
+  .form-control::placeholder {
+    color: #fff !important;
+  }
+
+
+
+  .premaking input,
+.premaking textarea {
+  color: #fff !important;
+  font-size: 23px;
+}
+
+
+
+ .premaking .messager {
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
+  color: #ff934e;
+  display: inline-block;
+  border: 3px solid #ff934e; 
+  padding: 5px; 
+  border-radius: 4px;
+  font-size: 22px;
+  margin-top: 40px;
+  margin-left: 25px;
+  background-color: transparent;
+ }
+
+
+ .messager:hover {
+  color: #fff !important;
+ }
+
+
+ .premaking .warning {
+  position: relative;
+  color: #fff;
+  margin-left: 25px;
+  margin-top: 25px;
+ }
+
+
+ .premaking .contacts {
+  font-size: 18px;
+  color: #ff934e;
+  position: relative;
+  margin-top: -510px;
+  margin-left: 850px;
+ }
+
+
+ .premaking .callback {
+  position: relative;
+  color: #fff;
+  font-size: 45px;
+  letter-spacing: 1px;
+  margin-left: 850px;
+  margin-top: 20px;
+ }
+
+
+ .premaking .creativitypara {
+  position: relative;
+  color: #fff;
+  margin-left: 850px;
+ }
+
+
+.premaking i {
+  position: relative;
+  color: #ff934e;
+}
+
+
+
+.premaking .fa-phone {
+  display: flex;
+  margin-left: 870px;
+  margin-top: 40px;
+}
+
+
+.premaking .fa-envelope  {
+  display: flex;
+  margin-top: 40px !important;
+  margin-left: 870px;
+}
+
+
+.premaking .fa-user {
+  display: flex;
+  margin-left: 1150px;
+  margin-top: -23px;
+}
+
+
+.premaking .fa-location-dot {
+  display: flex;
+  margin-left: 1150px;
+  margin-top: -78px;
+ 
+}
+
+
+.premaking .phonenumber {
+  display: flex;
+  position: relative;
+  color: #fff;
+  font-size: 17px;
+  margin-left: 900px;
+  margin-top: -17px;
+}
+
+
+.premaking .emaddress {
+  position: relative;
+  color: #fff;
+  font-size: 17px;
+  margin-left: 900px;
+  margin-top: 40px;
+}
+
+
+.premaking .ztreet {
+  display: flex;
+  position: relative;
+  color: #fff;
+  font-size: 17px;
+  margin-left: 1170px;
+  margin-top: -93px;
+}
+
+
+.premaking .webzite {
+  display: flex;
+  position: relative;
+  color: #fff;
+  margin-left: 1175px;
+  margin-top: 40px;
+}
+
+
+ .ls-2 {
+  letter-spacing: 2px;
+}
+
+.font-1 {
+  font-family: var(--font-1);
+}
+.lh-1 {
+  line-height: 1 !important;
+}
+.fw-bold {
+  font-weight: 700 !important;
+}
+
+
+

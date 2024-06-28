@@ -1,0 +1,332 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+  .mainhone {
+    display: flex;
+    color: #ff934e;
+    margin-top: 400px;
+    margin-left: 50px;
+    font-size: 24px;
+}
+
+
+.mainhtwo {
+    display: flex;
+    color: #fff;
+    font-size: 54px;
+    margin-left: 50px;
+}
+
+.mainparagraph {
+  color: #fff;
+  display: flex;
+  margin-left: 630px;
+  margin-top: -80px;
+}
+
+
+.cardA {
+    width: 500px;
+    height: 440px;
+    background-color: #212121;
+        border: 1px solid #424242 !important   ;
+        margin-left: 6px;
+        margin-top: 30px;
+}
+
+
+.cardA img {
+    width: 490px;
+    height: 290px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+.cardA h5 {
+    margin-top: 20px;
+    margin-left: 17px;
+}
+
+.cardA a {
+    text-decoration: none;
+    color: #ff934e;
+    font-size: 15px;
+}
+
+.link:hover {
+    color: #fff;
+}
+
+.link2:hover {
+    color: #fff;
+}
+
+.link3:hover {
+    color: #fff;
+}
+
+
+.cardA p {
+    color: #fff;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+
+
+
+
+.cardB {
+  width: 500px;
+    height: 440px;
+    background-color: #212121;
+        border: 1px solid #424242 !important;
+        margin-left: -230px;
+        margin-top: 30px;
+}
+
+
+.cardB img {
+  width: 490px;
+    height: 290px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+.cardB h5 {
+  margin-top: 20px;
+    margin-left: 28px;
+}
+
+.cardB a {
+  text-decoration: none;
+    color: #ff934e;
+    font-size: 15px;
+}
+
+
+.cardB p {
+  color: #fff;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+
+.cardC {
+  width: 500px;
+    height: 440px;
+    background-color: #212121;
+        border: 1px solid #424242 !important;
+        margin-left: -465px;
+        margin-top: 30px;
+}
+
+
+.cardC img {
+  width: 490px;
+    height: 290px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+.cardC h5 {
+  margin-top: 20px;
+    margin-left: 28px;
+}
+
+.cardC a {
+  text-decoration: none;
+    color: #ff934e;
+    font-size: 15px;
+}
+
+
+.cardC p {
+  color: #fff;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+
+.secondstep {
+  background-color: #222;
+  margin-top: 100px;
+  border-top: 1px solid #fff;
+}
+
+.bigtwo {
+  position: relative;
+    display: inline-block;
+  font-size: 44px;
+  color: #fff;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+
+.bigtwo span {
+  display: block;
+    position: absolute;
+    bottom: -60px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.cartoonyorange {
+  color: #ff934e;
+  font-size: 20px;
+  margin-top: 80px;
+  margin-left: 420px;
+}
+
+
+ .sociallinks a {
+  display: flex !important;
+  text-decoration: none;
+  color: #fff;
+  font-size: 21px !important;
+}
+
+.facebook {
+  margin-top: 50px;
+  margin-left: 370px;
+}
+
+
+.twitter {
+  margin-left: 540px;
+  margin-top: -38px;
+}
+
+
+.linkedin {
+  margin-left: 697px;
+  margin-top: -39px;
+}
+
+
+.instagram {
+  margin-left: 854px;
+  margin-top: -40px;
+}
+
+
+.youtube {
+  margin-left: 1040px;
+  margin-top: -41px;
+}
+
+
+.endbackimg {
+  width: 1518px;
+  height: 70px;
+  opacity: 0.1;
+  margin-top: 60px;
+}
+
+
+.endmainimg {
+  margin-top: -80px;
+  width: 210px;
+  height: 60px;
+  margin-left: 40px;
+}
+
+
+.endinghsix {
+color: #fff;
+margin-top: -60px;
+margin-left: 950px;
+}
+
+
+
+.ls-2 {
+    letter-spacing: 2px;
+  }
+  
+  .font-1 {
+    font-family: var(--font-1);
+  }
+  .lh-1 {
+    line-height: 1 !important;
+  }
+  .fw-bold {
+    font-weight: 700 !important;
+  }
+  
+  

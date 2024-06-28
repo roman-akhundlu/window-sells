@@ -1,5 +1,5 @@
 import React from 'react'
-import Roman from './Resposive'
+import Roman from '../src/components/Resposive'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 
