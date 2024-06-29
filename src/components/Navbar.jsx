@@ -1,15 +1,16 @@
 import React from 'react'
 import './Navbar.css';
 import { toggleOverlayMenu } from '../overlaymenu';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
     <>
      <nav className="sticky-top navbar navbar-expand-lg">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
+          <Link className="navbar-brand" to="/">
             <img src="../src/assets/photos/logo.png" alt="" />
-          </a>
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -23,16 +24,16 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item roboto-bold">
-                <a className="nav-link active" aria-current="page" href="../components/Resposive.jsx">HOMEPAGE</a>
+                <Link className="nav-link active" aria-current="page" to="/">HOMEPAGE</Link>
               </li>
               <li className="nav-item roboto-bold">
-                <a className="nav-link active" href="#">ABOUT</a>
+                <Link className="nav-link active" to="/aboutus">ABOUT</Link>
               </li>
               <li className="nav-item roboto-bold">
-                <a className="nav-link active" href="#">POST</a>
+                <Link className="nav-link active" to="/post">POST</Link>
               </li>
               <li className="nav-item roboto-bold">
-                <a className="nav-link active" href="#">P.DETAILS</a>
+                <Link className="nav-link active" to="/portfolio">P.DETAILS</Link>
               </li>
             </ul>
           </div>

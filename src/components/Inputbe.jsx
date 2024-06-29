@@ -14,7 +14,7 @@ const Inputbe = () => {
       <button href="#" className='roboto-bold messager'>Send Message</button>
       <p className='warning roboto-bold'>We will contact you back within 24 hours via email.</p>
       <h1 className='ls-2 lh-1 fw-bold font-1 contacts'>CONTACT</h1>
-      <h2 className='callback roboto-bold'>REQUEST CALL BACK</h2>
+      <h2 className='callback roboto-bold quicksand cormorant'>REQUEST CALL BACK</h2>
       <p className='creativitypara'>Nulla facilisi. Praesent non mauris ac ligula ullamcorper vehicula. Praesent mollis, nibh in <span>venenatis</span><br /> iaculis, mauris eros iaculis quam, ut aliquam nisi nunc vitae quam. Fusce faucibus, felis at <br /> fermentum convallis, nunc neque aliquam turpis, ut varius ipsum nisi eu magna. Sed euismod <br /> laoreet nisi, eu iaculis elit scelerisque non.</p>
       <i class="fa-solid fa-phone"></i>
       <i class="fa-solid fa-envelope"></i>

@@ -84,7 +84,7 @@
     display: flex;
     color: #fff;
     font-size: 54px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .mainparagraph {
@@ -233,7 +233,7 @@
   font-size: 44px;
   color: #fff;
   margin-top: 60px;
-  margin-left: 40px;
+  margin-left: 84px;
 }
 
 
@@ -329,4 +329,17 @@ margin-left: 950px;
     font-weight: 700 !important;
   }
   
-  
+  .quicksand {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+
+  .cormorant {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }

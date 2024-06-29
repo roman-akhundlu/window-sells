@@ -13,7 +13,7 @@ const Liquiferpart = () => {
        <section className='sliderman'>
         <div className='protexts'>
           <h5 className='lh-1 ls-2 fw-bold font-1'>PORTFOLIO</h5>
-          <h4>FEATURED PROJECT</h4>
+          <h4 className='quicksand cormorant'>FEATURED PROJECT</h4>
           <div className='videos'>
             <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
               <SwiperSlide><img src="../src/assets/photos/movie1.jpg" alt="" /></SwiperSlide>
@@ -32,30 +32,30 @@ const Liquiferpart = () => {
         <div className='backimg'>
           <img src="../src/assets/photos/liquifer.png" alt="" />
           <h5 className='lh-1 ls-2 fw-bold font-1 firsth5'>SERVICES</h5>
-          <h4 className='firsth4'>WHAT SERVICE WE OFFER ?</h4>
+          <h4 className='firsth4 quicksand cormorant'>WHAT SERVICE WE OFFER ?</h4>
         </div>
 
         <div className='service1'>
         <i class="fa-solid fa-film"></i>
-        <h1 className='roboto-bold'>FILM PRODUCTION</h1>
+        <h1 className='roboto-bold quicksand cormorant'>FILM PRODUCTION</h1>
         <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit. Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
         </div>
 
         <div className='service2'>
         <i class="fa-solid fa-photo-film"></i>
-          <h1 className='roboto-bold'>CREATIVE DIRECTION</h1>
+          <h1 className='roboto-bold quicksand cormorant'>CREATIVE DIRECTION</h1>
           <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.  Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
         </div>
 
         <div className='service3'>
       <i class="fa-solid fa-video"></i>
-      <h2 className='roboto-bold'>TVC PRODUCTION</h2>
+      <h2 className='roboto-bold quicksand cormorant'>TVC PRODUCTION</h2>
       <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.  Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
        </div>
 
       <div className='service4'>
       <i class="fa-solid fa-music"></i>
-      <h3 className='roboto-bold'>MUSIC VIDEO</h3>
+      <h3 className='roboto-bold quicksand cormorant'>MUSIC VIDEO</h3>
       <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.  Ut elit <br /> tellus, luctus nec ullamcorper mattis</p>
        </div>
       </section>

@@ -10,7 +10,7 @@ const Footer1 = () => {
   return (
     <>
     <h1 className='ls-2 font-1 lh-1 fw-bold mainhone'>BLOG</h1>
-    <h2 className='mainhtwo'>OUR LATEST BLOG</h2>
+    <h2 className='mainhtwo quicksand cormorant'>OUR LATEST BLOG</h2>
     <p className='mainparagraph'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lacinia sit amet nisi nec <br /> pellentesque. Ut vitae metus blandit, ornare dolor at, pretium ligula. Sed dapibus tortor nisl, quis <br /> pretium metus finibus ac.</p>
     <Swiper
 
@@ -91,28 +91,28 @@ breakpoints={{
       </Swiper>
 
       <section className='secondstep'>
-        <h2 className='bigtwo roboto-thin'>HAVE IDEA IN YOUR MIND ? LET'S START YOUR PROJECT WITH <span>US</span></h2>
+        <h2 className='bigtwo roboto-thin quicksand cormorant'>HAVE IDEA IN YOUR MIND ? LET'S START YOUR PROJECT WITH <span>US</span></h2>
       <h3 className='cartoonyorange roboto-bold'>CINESTAR STUDIO, +123-456-789 OR HELLO@AWESOMESITE.COM</h3>
       <div className='sociallinks'>
 
       <a href="https://www.facebook.com/">
-      <h4 className='facebook roboto-bold'>FACEBOOK</h4>
+      <h4 className='facebook roboto-bold quicksand cormorant'>FACEBOOK</h4>
       </a>
 
       <a href="https://x.com/">
-      <h4 className='twitter roboto-bold'>TWITTER</h4>
+      <h4 className='twitter roboto-bold quicksand cormorant'>TWITTER</h4>
       </a>
 
       <a href="https://www.linkedin.com/">
-      <h4 className='linkedin roboto-bold'>LINKEDIN</h4>
+      <h4 className='linkedin roboto-bold quicksand cormorant'>LINKEDIN</h4>
       </a>
 
       <a href="https://www.instagram.com/">
-      <h4 className='instagram roboto-bold'>INSTAGRAM</h4>
+      <h4 className='instagram roboto-bold quicksand cormorant'>INSTAGRAM</h4>
       </a>
 
       <a href="https://www.youtube.com/">
-      <h4 className='youtube roboto-bold'>YOUTUBE</h4>
+      <h4 className='youtube roboto-bold quicksand cormorant'>YOUTUBE</h4>
       </a>
       </div>
 

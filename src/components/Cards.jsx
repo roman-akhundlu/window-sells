@@ -13,10 +13,10 @@ const Cards = () => {
     
     <section className='stories'>
         <h1 className='lh-1 ls-2 fw-bold font-1'>STORY</h1>
-        <h2>STORY BEHIND CINESTAR</h2>
+        <h2 className='quicksand cormorant'>STORY BEHIND CINESTAR</h2>
         <p className='firstparastor'>Aliquam ex lacus, venenatis id finibus ut, scelerisque at felis. Nulla facilisi. Sed <br /> fringilla enim consectetur cursus euismod. Sed vel magna in ex malesuada rhoncus <br /> ac a turpis.</p>
       <p className='secondparastor'>” Vivamus quam lectus, facilisis a massa facilisis, imperdiet maximus nunc. Integer <br /> ut metus eget lectus imperdiet pulvinar in ac urna “</p>
-      <h3 className='roboto-medium'>DYAS KARDINAL</h3>
+      <h3 className='roboto-medium quicksand cormorant'>DYAS KARDINAL</h3>
       <h4 className='roboto-medium'>CEO OF CINESTAR</h4>
       <img src="../src/assets/photos/rejissor.jpg" alt="" />
       </section>
@@ -24,7 +24,7 @@ const Cards = () => {
 
       <div className='reviews'>
         <h1 className='lh-1 ls-2 fw-bold font-1 openingtext'>TESTIMONIAL</h1>
-          <h2 className='openingbig'>WHAT THEY SAY ABOUT OUR STUDIO ?</h2>
+          <h2 className='openingbig quicksand cormorant'>WHAT THEY SAY ABOUT OUR STUDIO ?</h2>
           <p className='openingpara'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
       <div className=' d-flex slidersticks'>
       <Swiper
