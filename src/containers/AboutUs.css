@@ -1,6 +1,83 @@
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+
+
+
+
 .invisimg {
-    width: 1536px;
-    height: 470px;
+    width: 1518px;
+    height: 480px;
     margin-top: -155px;
     filter: grayscale(100%) brightness(50%);
 }
@@ -9,15 +86,248 @@
 .blackimgsec h1 {
     color: #fff;
     position: relative;
-    font-size: 56px;
+    font-size: 55px;
     font-weight: 600;
     letter-spacing: 1.3px;
-    margin-top: -200px;
-    margin-left: 55px;
+    margin-top: -215px;
+    margin-left: 35px;
     font: 'Cormorant', serif;
     font: 'Quicksand', sans-serif;
 }
 
+
+.importlink {
+  display: flex;
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ff934e;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
+
+.blackimgsec p {
+  color: #fff;
+  position: relative;
+  letter-spacing: 1px;
+  font-size: 18px;
+  margin-top: -27px;
+  margin-left: 108px;
+}
+
+
+.awardZ {
+  background-color: #212121;
+  margin-top: 150px;
+}
+
+.awardZ img {
+  width: 280px;
+}
+
+.awardA {
+  margin-left: 520px;
+}
+
+.awardTwin {
+margin-left: 30px;
+
+}
+
+
+.awardB {
+  margin-left: 10px;
+}
+
+
+ .card-first {
+  margin-top: -220px;
+  margin-left: 100px;
+} 
+
+.liqucard {
+  opacity: 0.14;
+  width: 366px;
+  height: 30vh;
+}
+
+
+.card-hfive {
+  color: #fff;
+  position: relative;
+  margin-top: -170px;
+  margin-left: 55px;
+}
+
+.card-para {
+  color: #fff;
+  position: relative;
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+
+
+.thirdZtep {
+  background-color: #212121;
+  display: flex;
+  justify-content: center;
+  margin-top: 130px;
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
+.LeftUpperFooter h1 {
+  display: flex;
+  color: #ff934e;
+  font-size: 27px;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+
+
+.LeftUpperFooter h2 {
+  display: flex;
+  color: #fff;
+  font-size: 48px;
+  margin-left: 40px;
+}
+
+
+.LeftUpperPara {
+  display: flex;
+  color: #fff;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+.LeftUpperPara2 {
+  display: flex;
+  color: #fff;
+  margin-left: 40px;
+  margin-top: -30px;
+}
+
+
+.MapLocation {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
+  color: #ff934e;
+  display: inline-block;
+  border: 2px solid #ff934e; 
+  padding: 5px; 
+  border-radius: 4px;
+  font-size: 25px;
+  background-color: transparent;
+}
+
+
+.outdivPara {
+  display: flex;
+  color: #fff;
+  margin-top: -500px;
+  margin-left: 400px;
+}
+
+.schedule {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 420px;
+  padding-bottom: 50px;
+  margin-top:-10px;
+  z-index: 99999999;
+}
+
+.description, .area {
+  border: 2px solid #fff;
+  padding: 10px;
+  color: #fff;
+  font-size: 1.8em;
+  margin-top: 50px;
+}
+
+.description {
+  padding-right: 180px;
+  margin-left: -400px;
+}
+
+.area {
+  padding-right: 290px;
+  margin-top: -182px;
+  margin-left: -20px;
+}
+
+.schedpara1, .areapara {
+  border: 2px solid #fff;
+  padding: 10px;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+.schedpara1 {
+  display: inline-block;
+  padding-left: 24px;
+  margin-top: -10px;
+  margin-left: -400px;
+}
+
+.areapara {
+  display: inline-block;
+  padding-right: 171px;
+  padding-left: 110px;
+  padding-bottom: 39px;
+  margin-top: -10px; 
+  margin-left: -20px;
+}
+
+
+
+.building1 {
+  width: 700px;
+  height: 400px;
+  margin-top: 180px;
+  margin-left: 15px;
+
+}
+
+
+.building2 {
+  width: 700px;
+  height: 400px;
+  margin-top: 180px;
+margin-left: 15px;
+}
+
+
+.ls-2 {
+  letter-spacing: 2px;
+}
+
+
+.font-2 {
+  font-family: var(--font-2);
+}
+
+
+.lh-1 {
+  line-height: 1 !important;
+}
+
+.fw-bold {
+  font-weight: 700 !important;
+}
+ 
 
 .quicksand {
     font-family: "Quicksand", sans-serif;
@@ -33,4 +343,4 @@
     font-weight: weight;
     font-style: normal;
   }
-  
+   

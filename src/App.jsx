@@ -27,7 +27,6 @@ const App = () => {
 <Route path="/post" element={<Post/>}/>
       </Routes>
 
-
     </BrowserRouter>
     </>
   )

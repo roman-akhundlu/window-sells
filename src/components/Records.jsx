@@ -11,10 +11,10 @@ const Records = () => {
         <img src="../src/assets/photos/Plan.jpg" alt="" className='wider' />
         <h3 className='quicksand cormorant'>DO NOT HESITATE TO CHOOSE CINESTAR AS YOUR STUDIO <br /> PRODUCTION</h3>
         <p className='longpara'>Integer scelerisque nulla nec lectus dapibus gravida. Nulla sit amet leo vel orci <br /> convallis hendrerit. Donec eget enim pharetra, interdum tellus et, fringilla dolor. <br /> Duis eget imperdiet nisl. Sed quis convallis felis. Donec varius dictum purus, at <br /> ullamcorper eros dictum venenatis. Pellentesque dictum dictum quam vitae laoreet.</p>
-        <h5 className='firstplus roboto-bold'>250+</h5>
-        <h4 className='secondplus'>MOVIE PRODUCTION</h4>
-        <h6 className='thirdplus roboto-bold'>78+</h6>
-        <h2 className='fourthplus'>MUSIC VIDEO</h2>
+        <h5 className='firstplus roboto-bold quicksand cormorant'>250+</h5>
+        <h4 className='secondplus quicksand cormorant'>MOVIE PRODUCTION</h4>
+        <h6 className='thirdplus roboto-bold quicksand cormorant'>78+</h6>
+        <h2 className='fourthplus quicksand cormorant'>MUSIC VIDEO</h2>
       </section>
     </>
   )

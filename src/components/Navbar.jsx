@@ -23,16 +23,16 @@ const Navbar = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
-              <li className="nav-item roboto-bold">
+              <li className="nav-item roboto-bold quicksand cormorant">
                 <Link className="nav-link active" aria-current="page" to="/">HOMEPAGE</Link>
               </li>
-              <li className="nav-item roboto-bold">
+              <li className="nav-item roboto-bold quicksand cormorant">
                 <Link className="nav-link active" to="/aboutus">ABOUT</Link>
               </li>
-              <li className="nav-item roboto-bold">
+              <li className="nav-item roboto-bold quicksand cormorant">
                 <Link className="nav-link active" to="/post">POST</Link>
               </li>
-              <li className="nav-item roboto-bold">
+              <li className="nav-item roboto-bold quicksand cormorant">
                 <Link className="nav-link active" to="/portfolio">P.DETAILS</Link>
               </li>
             </ul>
@@ -42,10 +42,10 @@ const Navbar = () => {
 
       <div id="overlay-menu" className="overlay-menu">
         <ul className="overlay-menu-list">
-          <li className="overlay-menu-item"><a className='overlay-menu-link' href="../components/Resposive">HOMEPAGE</a></li>
-          <li className="overlay-menu-item"><a className='overlay-menu-link' href="#">ABOUT</a></li>
-          <li className="overlay-menu-item"><a className='overlay-menu-link' href="#">POST</a></li>
-          <li className="overlay-menu-item"><a className='overlay-menu-link' href="#">P.DETAILS</a></li>
+          <li className="overlay-menu-item"><Link className='overlay-menu-link quicksand cormorant' to="/">HOMEPAGE</Link></li>
+          <li className="overlay-menu-item"><Link className='overlay-menu-link quicksand cormorant' to="/aboutus">ABOUT</Link></li>
+          <li className="overlay-menu-item"><a className='overlay-menu-link quicksand cormorant' href="#">POST</a></li>
+          <li className="overlay-menu-item"><a className='overlay-menu-link quicksand cormorant' href="#">P.DETAILS</a></li>
         </ul>
       </div>
     </>

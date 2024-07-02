@@ -127,7 +127,9 @@
 
 
 
-
+.nav-item a {
+  font-size: 19px;
+}
 
 
 
@@ -135,6 +137,7 @@
   .nav-link {
     color: #fff !important;
     text-decoration: none;
+  
 }
 
 .nav-link:hover {
@@ -154,7 +157,8 @@ background-color: #000;
 
 .navbar-brand img {
  font-size: 40px;
- width: 360px;
+ width: 260px;
+ margin-left: 34px;
 }
 
 .nav-link {
@@ -178,4 +182,19 @@ background-color: #000;
 
 .fs-3 {
   font-size: calc(1.3rem + .6vw) !important;
+}
+
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+.cormorant {
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
