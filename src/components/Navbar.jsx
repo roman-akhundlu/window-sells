@@ -44,8 +44,8 @@ const Navbar = () => {
         <ul className="overlay-menu-list">
           <li className="overlay-menu-item"><Link className='overlay-menu-link quicksand cormorant' to="/">HOMEPAGE</Link></li>
           <li className="overlay-menu-item"><Link className='overlay-menu-link quicksand cormorant' to="/aboutus">ABOUT</Link></li>
-          <li className="overlay-menu-item"><a className='overlay-menu-link quicksand cormorant' href="#">POST</a></li>
-          <li className="overlay-menu-item"><a className='overlay-menu-link quicksand cormorant' href="#">P.DETAILS</a></li>
+          <li className="overlay-menu-item"><Link className='overlay-menu-link quicksand cormorant' to="/post">POST</Link></li>
+          <li className="overlay-menu-item"><Link className='overlay-menu-link quicksand cormorant' to="/portfolio">P.DETAILS</Link></li>
         </ul>
       </div>
     </>
