@@ -344,3 +344,33 @@ margin-left: 15px;
     font-style: normal;
   }
    
+
+  @media(min-width:1277px) and (max-width:1280px) {
+    .invisimg {
+      width: 1275px !important;
+    }
+
+    .awardZ img{
+width: 240px;
+    }
+
+    .awardA {
+      margin-left: 420px !important;
+    }
+
+    .card-first {
+      margin-left: 40px !important;
+    }
+
+    .building1 {
+      width: 660px !important;
+    }
+
+    .building2 {
+      width: 660px !important;
+    }
+
+    .endbackimg {
+      width: 1275px !important;
+    }
+  }

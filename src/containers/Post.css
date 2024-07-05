@@ -557,3 +557,40 @@ background-color: transparent;
     font-weight: weight;
     font-style: normal;
   }
+
+
+
+  @media(min-width:1277px) and (max-width:1280px) {
+    .invisimg2 {
+      width: 1275px !important;
+    }
+
+    .postrightside img {
+      width: 880px;
+    }
+
+    .bigtwopost {
+      font-size: 38px !important;
+      margin-left: 90px !important;
+    }
+
+    .cartoonyorangepost {
+      margin-left: 355px !important;
+    }
+
+    .sociallinkspost a {
+      margin-left:-90px !important;
+    }
+
+    .belowfooter img {
+      width: 1275px !important;
+    }
+
+    .endbackimgpost {
+      width: 1275px !important;
+    }
+
+    .bord {
+     width: 69% !important; 
+    }
+  }

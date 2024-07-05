@@ -434,3 +434,53 @@
     font-weight: weight;
     font-style: normal;
   }
+
+
+  @media(min-width:1277px) and (max-width:1280px) {
+    .invisimg3 {
+      width: 1275px !important;
+    }
+
+    .bigimgpost {
+      width: 510px !important;
+      margin-left: 760px !important;
+      height: 60vh !important;
+      margin-top: -1080px !important;
+    }
+
+
+    .cutdubpost {
+      margin-top: 6px !important;
+      width: 260px !important;
+      height: 150px !important;
+  }
+  
+  
+  .rejissorpost {
+    margin-left: 6px !important;
+    margin-top: 10px !important;
+      width: 260px !important;
+      height: 150px !important;
+  }
+
+  .upperfooterpost img {
+    width: 1275px !important;
+  }
+
+  .endbackimgproject {
+    width: 1275px !important;
+  }
+
+  .bigtwoproject {
+    font-size: 38px !important;
+    margin-left: 90px !important;
+  }
+
+  .cartoonyorangeproject {
+    margin-left: 355px !important;
+  }
+
+  .sociallinksproject a {
+    margin-left:-90px !important;
+  }
+  }

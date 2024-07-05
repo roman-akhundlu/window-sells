@@ -38,9 +38,9 @@ const Cards = () => {
 
    slidesPerView={2}
         breakpoints={{
-          640: {
-            slidesPerView: 2,
-            spaceBetween: 20,
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 40,
           },
           768: {
             slidesPerView: 4,

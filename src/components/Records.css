@@ -229,3 +229,21 @@
       margin-left: 1050px !important;
     }
   }
+
+
+  @media(min-width:317px) and (max-width:320px) {
+    .pluses h1 {
+      font-size: 18px !important;
+      margin-top: 170px !important;
+      margin-left: 60px !important;
+    }
+
+    .pluses h2 {
+      font-size: 43px !important;
+      margin-left: 60px !important;
+    }
+
+    .truepara {
+      margin-left: 60px !important;
+    }
+  }
