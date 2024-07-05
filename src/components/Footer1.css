@@ -343,3 +343,36 @@ margin-left: 950px;
     font-weight: weight;
     font-style: normal;
   }
+
+
+  @media(min-width:1277px) and (max-width:1280px) {
+    .mainhone {
+      margin-top: 260px !important;
+    }
+
+
+    .cardC {
+      margin-left: -220px;
+    }
+
+    .cardB {
+      margin-left: -100px;
+    }
+
+    .cardA {
+      margin-left: 20px;
+    }
+
+    .bigtwo {
+      font-size: 38px !important;
+      margin-left: 90px !important;
+    }
+
+    .cartoonyorange {
+      margin-left: 355px !important;
+    }
+
+    .sociallinks a {
+      margin-left:-90px !important;
+    }
+  }

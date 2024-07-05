@@ -302,3 +302,32 @@ textarea {
   font-weight: weight;
   font-style: normal;
 }
+
+
+@media(min-width:1277px) and (max-width:1280px) {
+  .fa-location-dot {
+    margin-left: 1040px !important;
+  }
+
+  .ztreet {
+    margin-left: 1060px !important;
+  }
+
+  .fa-envelope {
+    margin-left: 800px !important;
+  }
+
+  .emaddress {
+    margin-left: 830px !important;
+  }
+
+  .fa-user {
+    margin-left: 1075px !important;
+    margin-top: -24px !important;
+  }
+
+  .webzite {
+    margin-left: 1100px !important;
+    margin-top: 24px !important;
+  }
+}

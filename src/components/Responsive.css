@@ -191,3 +191,39 @@
   font-weight: weight;
   font-style: normal;
 }
+
+
+
+@media(min-width:1277px) and (max-width:1280px) {
+  .teamview img {
+      width: 1275px;
+  }
+
+.texts h1 {
+  margin-left: 500px;
+}
+
+.texts h2 {
+  margin-left: 340px;
+}
+
+.texts p {
+  margin-left: 290px;
+}
+
+.awards .award1 {
+  margin-left: 3px;
+}
+
+.awards .award2 {
+  margin-left: 3px;
+}
+
+.awards .award3 {
+  margin-left: 3px;
+}
+
+.card-body {
+  margin-left: 900px !important;
+}
+}

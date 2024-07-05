@@ -68,7 +68,7 @@ const Cards = () => {
   <h4>Designation</h4>
   <i class="fa-solid fa-quote-right"></i>
 </div>
-</div>
+        </div>
         </SwiperSlide>
 
 

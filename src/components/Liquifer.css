@@ -317,3 +317,38 @@
     font-weight: weight;
     font-style: normal;
   }
+
+
+
+  @media(min-width:1277px) and (max-width:1280px) {
+    .firsth5 {
+      margin-left: 590px !important;
+      margin-top: -430px !important;
+    }
+
+    .firsth4 {
+      margin-left: 400px !important;
+    }
+
+    .backimg img {
+      height: 480px;
+    }
+
+    .service3 {
+      margin-top: 170px !important;
+      margin-left: -460px !important;
+    }
+
+    .service2 {
+      margin-top: 30px !important;
+      margin-left: 270px !important;
+    }
+    .service1 {
+      margin-top: -40px;
+      margin-left: 250px;
+    }
+
+    .service4 {
+margin-left: -460px;
+    }
+  }

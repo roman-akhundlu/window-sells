@@ -1,11 +1,5 @@
 import React from 'react';
 import './Responsive.css';
-// import Navbar from '../components/Navbar'
-// import Record from '../components/Records'
-// import Liquifer from '../components/Liquiferpart';
-// import Cards from '../components/Cards';
-// import Inputbe from '../components/Inputbe';
-// import Footer1 from '../components/Footer1';
 
 
 const Roman = () => {

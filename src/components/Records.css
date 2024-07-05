@@ -188,3 +188,44 @@
     font-weight: weight;
     font-style: normal;
   }
+
+
+  @media(min-width:1277px) and (max-width:1280px) {
+    .pluses h1 {
+      display: flex;
+      margin-top: 230px;
+    }
+
+    .truepara {
+      margin-left: 660px !important;
+    }
+
+    .wider {
+      margin-left: 40px !important;
+    }
+
+    .pluses h3 {
+      margin-left: 770px !important;
+    }
+
+    .longpara {
+      margin-left: 770px !important;
+    }
+
+    .firstplus {
+      margin-left: 810px !important;
+      margin-top: 70px !important;
+    }
+
+    .secondplus {
+      margin-left: 776px !important;
+    }
+
+    .thirdplus {
+      margin-left: 1080px !important;
+    }
+
+    .fourthplus {
+      margin-left: 1050px !important;
+    }
+  }
