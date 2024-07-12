@@ -6,7 +6,7 @@ const Records = () => {
     <>
     <section className='pluses'>
         <h1 className='font-1 fs-3 ls-2 fw-bold'>CINESTAR STUDIO</h1>
-        <h2 className='quicksand cormorant'>HAVE IDEA FOR YOUR <br />PROJECT?</h2>
+        <h2 className='quicksand cormorant pluseshtwo'>HAVE IDEA FOR YOUR <br />PROJECT?</h2>
         <p className='truepara'>Proin et magna blandit arcu pellentesque scelerisque sit amet a sapien. Aenean purus nunc, cursus <br /> in ante in, vehicula facilisis dui. Integer consequat consectetur est id blandit. Duis fermentum nulla <br /> non mi tempor elementum. Donec efficitur ac eros quis porta.</p>
         <img src="../src/assets/photos/Plan.jpg" alt="" className='wider' />
         <h3 className='quicksand cormorant'>DO NOT HESITATE TO CHOOSE CINESTAR AS YOUR STUDIO <br /> PRODUCTION</h3>

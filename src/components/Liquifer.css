@@ -357,3 +357,98 @@ margin-left: -460px;
       width: 1275px;
     }
   }
+
+
+  @media(min-width:317px) and (max-width:320px) {
+    .sliderman h5 {
+      margin-left: 40px !important;
+    }
+
+    .sliderman h4 {
+      margin-left: 40px !important;
+    }
+
+    .sliderman img {
+      width:315px !important;
+      height: 200px !important;
+    }
+
+    .swipimgcorusel1 {
+      margin-left:5px !important;
+    }
+
+    .swipimgcorusel2 {
+      margin-left:5px !important;
+    }
+
+    .swipimgcorusel3 {
+      margin-left:5px !important;
+    }
+
+    .longparagraph {
+      margin-top: 50px !important;
+      margin-left: 10px !important;
+    }
+
+    .shortparagraph {
+      margin-top: 30px !important;
+      margin-left: 10px !important;
+    }
+
+.protexts {
+  height: 1170px !important;
+}
+
+.seeall {
+  margin-left: 40px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+.startproject {
+  margin-left: 40px !important;
+  padding-left: 5px !important;
+  padding-right: 20px !important;
+  margin-top: 23px !important;
+}
+
+.backimg img {
+  width:315px !important;
+  height: 1100px !important;
+}
+
+.firsth5 {
+  margin-top: -1050px !important;
+  margin-left: 100px !important;
+}
+
+.firsth4 {
+  margin-top: 25px !important;
+  margin-left: 40px !important;
+  font-size: 35px !important;
+}
+
+    .hypnothis {
+      margin-top:100px !important;
+    }
+
+    .service1 {
+      margin-top: -40px !important;
+    margin-left: -25px  !important;
+    }
+
+    .service2 {
+      margin-top: 190px !important;
+      margin-left: -375px  !important;
+    }
+
+    .service3 {
+      margin-top: 190px !important;
+      margin-left: -750px  !important;
+    }
+
+    .service4 {
+      margin-top: 190px !important;
+      margin-left: -1118px  !important;
+    }
+  }

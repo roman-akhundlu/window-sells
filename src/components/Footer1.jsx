@@ -18,7 +18,7 @@ slidesPerView={3}
 spaceBetween={10}
 breakpoints={{
 
-  390: {
+  320: {
     slidesPerView: 1,
     spaceBetween: 20,
   },
@@ -115,8 +115,7 @@ breakpoints={{
       <h4 className='youtube roboto-bold quicksand cormorant'>YOUTUBE</h4>
       </a>
       </div>
-
-      <img src="../src/assets/photos/liquifer.png" alt="" className='endbackimg'/>
+<img src="../src/assets/photos/liquifer.png" alt="" className='endbackimg'/>
       <img src="../src/assets/photos/logo.png" alt="" className='endmainimg' />
       <h6 className='endinghsix'>COPYRIGHT 2023 © CINESTAR | POWERED BY ROMETHEME STUDIO</h6>
       </section>

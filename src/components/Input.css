@@ -335,3 +335,113 @@ textarea {
     width: 1275px;
   }
 }
+
+
+@media(min-width:317px) and (max-width:320px) {
+.premaking {
+  margin-top: 320px !important;
+}
+
+ .premaking img {
+  opacity: 0 !important;
+ }
+
+  input,textarea {
+  font-size: 16px !important ;
+  width: 250px !important;
+ } 
+
+ .namewrite {
+  margin-top: -60px !important;
+ }
+
+.lastwrite {
+  margin-left: 30px !important;
+  margin-top: 50px !important;
+}
+
+
+.subwrite {
+  margin-left: 30px !important;
+  margin-top: 50px !important;
+}
+
+.imputtext {
+  margin-top: -250px !important;
+}
+
+.problematicpart {
+  margin-top: 250px !important;
+}
+
+
+ .premaking .creativitypara {
+  position: relative !important;
+  margin-left: 30px !important;
+  margin-top: 20px !important;
+ }
+
+ .fa-phone {
+  display: flex !important;
+  margin-top: 5px !important;
+margin-left: 50px !important;
+font-size: 22px !important;
+ }
+
+ .fa-location-dot {
+  margin-top: 40px !important;
+  margin-left: 62px !important;
+font-size: 22px !important;
+ }
+
+ .fa-envelope {
+  display: inline-block !important;
+margin-top: 80px !important;
+  margin-left: 55px !important;
+font-size: 22px !important;
+ }
+
+ .fa-user {
+  display: flex !important;
+  margin-top: -30px !important;
+    margin-left: 63px !important;
+  font-size: 22px !important;
+ }
+
+ .phonenumber {
+  margin-top: -157px !important;
+  margin-left: 80px !important;
+  font-size: 22px !important;
+ }
+
+ .emaddress {
+  display: inline-block !important;
+  margin-top: 33px !important;
+    margin-left: 91px !important;
+  font-size: 16px !important;
+ }
+
+ .ztreet {
+  margin-top: 30px !important;
+  margin-left: 92px !important;
+  font-size: 18px !important;
+ }
+
+ .webzite {
+  margin-top: 20px !important;
+  margin-left: 92px !important;
+  font-size: 22px !important;
+ }
+
+ .contacts {
+  margin-left: 110px !important;
+  margin-top: -1730px !important;
+ }
+
+ .callback {
+  margin-left: 30px !important;
+  font-size: 34px !important;
+ }
+
+
+}

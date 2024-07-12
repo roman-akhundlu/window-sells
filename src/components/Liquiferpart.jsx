@@ -16,9 +16,9 @@ const Liquiferpart = () => {
           <h4 className='quicksand cormorant'>FEATURED PROJECT</h4>
           <div className='videos'>
             <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
-              <SwiperSlide><img src="../src/assets/photos/movie1.jpg" alt="" /></SwiperSlide>
-              <SwiperSlide><img src="../src/assets/photos/movie2.jpg" alt="" /></SwiperSlide>
-              <SwiperSlide><img src="../src/assets/photos/movie3.jpg" alt="" /></SwiperSlide>
+              <SwiperSlide><img src="../src/assets/photos/movie1.jpg" alt="" className='swipimgcorusel1' /></SwiperSlide>
+              <SwiperSlide><img src="../src/assets/photos/movie2.jpg" alt=""  className='swipimgcorusel2' /></SwiperSlide>
+              <SwiperSlide><img src="../src/assets/photos/movie3.jpg" alt=""  className='swipimgcorusel3' /></SwiperSlide>
             </Swiper>
             <p className='longparagraph'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lectus velit, iaculis quis mauris et,<br /> dignissim hendrerit ex. Nulla ultrices vel tellus lacinia pharetra. Integer commodo ligula lobortis <br /> sapien vehicula placerat eu id tellus. Ut faucibus neque eget dui rutrum, in hendrerit diam euismod. <br /> Nam congue diam nulla, vitae sagittis lorem bibendum eu. Curabitur eu ex pulvinar massa convallis <br /> ornare.</p>
             <p className='shortparagraph'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, <br /> pulvinar dapibus leo. Proin interdum dignissim maximus. Interdum et malesuada fames ac ante <br /> ipsum primis in faucibus.</p>

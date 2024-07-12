@@ -406,6 +406,8 @@
 
 
 
+
+
   .ls-2 {
     letter-spacing: 2px;
   }
@@ -437,6 +439,127 @@
     font-style: normal;
   }
 
+
+  @media(min-width:317px) and (max-width:320px) {
+    .stories h1 {
+      margin-top: 230px !important;
+      margin-left: 115px !important;
+      font-size: 24px !important;
+    }
+
+    .stories h2 {
+      margin-top: 20px !important;
+      margin-left: 25px !important;
+    }
+
+    .firstparastor {
+      margin-top: 20px !important;
+      margin-left: 25px !important;
+    }
+
+    .secondparastor {
+      margin-top: 20px !important;
+      margin-left: 25px !important;
+    }
+
+    .stories h3 {
+      margin-top: 30px !important;
+      margin-left: 25px !important;
+    }
+
+    .stories h4 {
+      margin-top: 10px !important;
+      margin-left: 25px !important;
+    }
+
+    .stories img {
+      width:315px !important;
+      height: 200px !important;
+      margin-left: -5px !important;
+      margin-top: 20px !important;
+    }
+
+    .openingtext {
+      margin-top: 180px !important;
+      margin-left: 85px !important;
+    }
+
+    .openingbig {
+      margin-left: 30px !important;
+      margin-top: 20px !important;
+    }
+
+    .openingpara {
+      margin-left: 20px !important;
+      margin-top: 30px !important;
+    }
+
+    .card1 {
+      width:300px !important;
+      height: 300px !important;
+      margin-left: 5px !important;
+    }
+
+    .card3 {
+      width:300px !important;
+      height: 300px !important;
+      margin-left: 5px !important;
+    }
+    .card4 {
+      width:300px !important;
+      height: 300px !important;
+      margin-left: 5px !important;
+    }
+    .card5 {
+      width:300px !important;
+      height: 300px !important;
+      margin-left: 5px !important;
+    }
+    .card6 {
+      width:300px !important;
+      height: 300px !important;
+      margin-left: 5px !important;
+    }
+
+     .card6 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+    }
+
+     .card5 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+    }
+     .card4 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+    }
+     .card3 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+    }
+     .card1 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+    }
+    
+
+  }
 
   @media(min-width:1277px) and (max-width:1280px) {
     .stories h1 {

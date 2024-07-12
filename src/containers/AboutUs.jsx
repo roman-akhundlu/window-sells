@@ -36,15 +36,17 @@ const Aboutus = () => {
 
 
 
-      <section className='stories'>
+      <section className='storiesabout'>
         <h1 className='lh-1 ls-2 fw-bold font-1'>STORY</h1>
         <h2 className='quicksand cormorant'>STORY BEHIND CINESTAR</h2>
-        <p className='firstparastor'>Aliquam ex lacus, venenatis id finibus ut, scelerisque at felis. Nulla facilisi. Sed <br /> fringilla enim consectetur cursus euismod. Sed vel magna in ex malesuada rhoncus <br /> ac a turpis.</p>
-      <p className='secondparastor'>” Vivamus quam lectus, facilisis a massa facilisis, imperdiet maximus nunc. Integer <br /> ut metus eget lectus imperdiet pulvinar in ac urna “</p>
+        <p className='firstparastorabout'>Aliquam ex lacus, venenatis id finibus ut, scelerisque at felis. Nulla facilisi. Sed <br /> fringilla enim consectetur cursus euismod. Sed vel magna in ex malesuada rhoncus <br /> ac a turpis.</p>
+      <p className='secondparastorabout'>” Vivamus quam lectus, facilisis a massa facilisis, imperdiet maximus nunc. Integer <br /> ut metus eget lectus imperdiet pulvinar in ac urna “</p>
       <h3 className='roboto-medium quicksand cormorant'>DYAS KARDINAL</h3>
       <h4 className='roboto-medium'>CEO OF CINESTAR</h4>
       <img src="../src/assets/photos/rejissor.jpg" alt="" />
       </section>
+
+      
 
 
 
@@ -115,36 +117,38 @@ const Aboutus = () => {
 </section>
 
 
-<section className='secondstep'>
-        <h2 className='bigtwo roboto-thin quicksand cormorant'>HAVE IDEA IN YOUR MIND ? LET'S START YOUR PROJECT WITH <span>US</span></h2>
-      <h3 className='cartoonyorange roboto-bold'>CINESTAR STUDIO, +123-456-789 OR HELLO@AWESOMESITE.COM</h3>
-      <div className='sociallinks'>
+<section className='secondstepabout'>
+        <h2 className='bigtwoabout roboto-thin quicksand cormorant'>HAVE IDEA IN YOUR MIND ? LET'S START YOUR PROJECT WITH <span>US</span></h2>
+      <h3 className='cartoonyorangeabout roboto-bold'>CINESTAR STUDIO, +123-456-789 OR HELLO@AWESOMESITE.COM</h3>
+      <div className='sociallinksabout'>
 
       <a href="https://www.facebook.com/">
-      <h4 className='facebook roboto-bold quicksand cormorant'>FACEBOOK</h4>
+      <h4 className='facebookabout roboto-bold quicksand cormorant'>FACEBOOK</h4>
       </a>
 
       <a href="https://x.com/">
-      <h4 className='twitter roboto-bold quicksand cormorant'>TWITTER</h4>
+      <h4 className='twitterabout roboto-bold quicksand cormorant'>TWITTER</h4>
       </a>
 
       <a href="https://www.linkedin.com/">
-      <h4 className='linkedin roboto-bold quicksand cormorant'>LINKEDIN</h4>
+      <h4 className='linkedinabout roboto-bold quicksand cormorant'>LINKEDIN</h4>
       </a>
 
       <a href="https://www.instagram.com/">
-      <h4 className='instagram roboto-bold quicksand cormorant'>INSTAGRAM</h4>
+      <h4 className='instagramabout roboto-bold quicksand cormorant'>INSTAGRAM</h4>
       </a>
 
       <a href="https://www.youtube.com/">
-      <h4 className='youtube roboto-bold quicksand cormorant'>YOUTUBE</h4>
+      <h4 className='youtubeabout roboto-bold quicksand cormorant'>YOUTUBE</h4>
       </a>
       </div>
 
-      <img src="../src/assets/photos/liquifer.png" alt="" className='endbackimg'/>
-      <img src="../src/assets/photos/logo.png" alt="" className='endmainimg' />
-      <h6 className='endinghsix'>COPYRIGHT 2023 © CINESTAR | POWERED BY ROMETHEME STUDIO</h6>
+      <img src="../src/assets/photos/liquifer.png" alt="" className='endbackimgabout'/>
+      <img src="../src/assets/photos/logo.png" alt="" className='endmainimgabout' />
+      <h6 className='endinghsixabout'>COPYRIGHT 2023 © CINESTAR | POWERED BY ROMETHEME STUDIO</h6>
       </section>
+
+
 
 
 

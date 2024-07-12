@@ -345,6 +345,136 @@ margin-left: 950px;
   }
 
 
+
+  @media(min-width:317px) and (max-width:320px) {
+
+.secondstep {
+  margin-top: 70px !important;
+}
+
+    .mainparagraph {
+      margin-left: 30px !important;
+margin-top: 30px !important;
+    }
+
+    .mainhone {
+      display: flex !important;
+      font-size: 18px !important;
+      margin-top: 970px !important;
+      margin-left: 30px !important;
+    }
+
+    .mainhtwo {
+      font-size: 28px !important;
+      margin-left: 30px !important;
+    }
+    
+    .cardA {
+      width:300px !important;
+      height: 430px !important;
+    margin-left: 700px !important;
+    margin-top: 80px !important;
+    }
+
+    .cardB {
+      width:300px !important;
+      height: 430px !important;
+      margin-left: -330px !important;
+      margin-top: 80px !important;
+    }
+
+    .cardC {
+      width:300px !important;
+      height: 430px !important;
+      margin-left: -330px !important;
+      margin-top: 80px !important;
+    }
+
+
+    .cardC img {
+      width: 285px !important;
+        height: 190px !important;
+    }
+
+ 
+
+    .cardB img {
+      width: 285px !important;
+      height: 190px !important;
+    }
+
+
+    .cardA img {
+      width: 285px !important;
+      height: 190px !important;
+    }
+
+  
+
+    .bigtwo {
+      font-size: 28px !important;
+      margin-left: 23px !important;
+        }
+
+
+    .bigtwo span {
+      display: block !important;
+        position: absolute !important;
+        bottom: -40px !important;
+        left: -20px !important;
+        width: 100% !important ;
+        text-align: center !important;
+    }
+
+    .cartoonyorange {
+      margin-left: 13px !important;
+      font-size: 18px !important;
+    }
+
+    .facebook {
+      margin-left: 33px !important;
+    }
+
+    .linkedin {
+      margin-left: 33px !important;
+      margin-top: 30px !important;
+    }
+
+    .instagram {
+      margin-left: 170px !important;
+      margin-top: -35px !important;
+    }
+
+    .twitter {
+      margin-top: -33px !important;
+      margin-left: 180px !important;
+    }
+
+    .youtube {
+      margin-top: 33px !important;
+      margin-left: 110px !important;
+    }
+
+    .endbackimg {
+      margin-top: 150px !important;
+      width: 315px !important;
+    }
+
+    .endmainimg {
+      margin-left: 50px !important;
+      margin-top: -100px !important;
+    }
+
+    .endinghsix {
+      font-size: 23px !important;
+      margin-top: 30px !important;
+      margin-left: 35px !important;
+    }
+  
+  }
+
+
+
   @media(min-width:1277px) and (max-width:1280px) {
     .mainhone {
       margin-top: 260px !important;
@@ -374,5 +504,9 @@ margin-left: 950px;
 
     .sociallinks a {
       margin-left:-90px !important;
+    }
+
+    .endbackimg {
+      width: 1277px !important;
     }
   }
