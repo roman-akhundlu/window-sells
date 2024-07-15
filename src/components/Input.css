@@ -445,3 +445,83 @@ font-size: 22px !important;
 
 
 }
+
+@media(min-width:765px) and (max-width:768px) {
+ .contacts {
+  margin-left: 340px !important;
+  margin-top: -1010px !important;
+ }
+
+ .callback {
+  font-size: 36px !important;
+  margin-left: 210px !important;
+ }
+
+ .creativitypara {
+  margin-top: 30px !important;
+  margin-left: 45px !important;
+ }
+ 
+  .premaking img {
+    width: 763px !important;
+    height: 1100px !important;
+  }
+
+  .fa-phone {
+    margin-top: 40px !important;
+    font-size: 30px !important;
+    margin-left: 45px !important;
+  }
+
+  .phonenumber {
+    margin-top: -135px !important;
+    font-size: 30px !important;
+    margin-left: 100px !important;
+  }
+
+  .fa-location-dot {
+    margin-top: -30px !important;
+    display: flex !important;
+    font-size: 30px !important;
+    margin-left:45px !important;
+  }
+
+  .ztreet {
+    margin-top:-30px !important;
+    font-size: 20px !important;
+    margin-left: 100px !important;
+  }
+
+  .fa-envelope {
+    font-size: 30px !important;
+    display: flex !important;
+    padding-top: 30px !important;
+    margin-left: 460px !important;
+  }
+
+  .emaddress {
+    padding-top: 32px !important;
+    margin-left: 510px !important;
+  }
+
+  .fa-user {
+    font-size: 30px !important;
+    display: flex !important;
+    margin-top: -37px !important;
+    margin-left: 445px !important;
+  }
+
+  .webzite {
+    display: flex !important;
+    margin-top: -120px !important;
+    margin-left: 490px !important;
+  }
+
+  input {
+    width: 290px !important;
+  }
+
+  textarea {
+    width: 700px !important;
+  }
+}

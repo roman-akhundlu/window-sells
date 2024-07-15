@@ -25,7 +25,7 @@ const Post = () => {
 
 <section className='firstlinkcard2'>
 <img src="../src/assets/photos/liquifer.png" alt="" />
-<h1 className='quicksand cormorant roboto-bold'>HAVE <br /> IDEA IN <br /> YOUR <br /> MIND?</h1>
+<h1 className='quicksand cormorant roboto-bold'>HAVE <br />  IDEA IN <br /> YOUR <br /> MIND?</h1>
 <h2 className='roboto-bold'>LETS START YOUR <br /> PROJECT</h2>
 <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.</p>
 <Link to="/post" className='roboto-bold ContactUs quicksand cormorant'>Contact Us</Link>

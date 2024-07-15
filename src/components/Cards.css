@@ -609,3 +609,111 @@
       margin-left: -520px;
     }
   }
+
+
+  @media(min-width:765px) and (max-width:768px) {
+    .stories h1 {
+      font-size: 33px !important;
+      margin-left: 320px !important;
+      margin-top: 180px !important;
+    }
+
+    .stories h2 {
+      margin-left: 160px !important;
+    }
+
+    .stories img {
+      margin-top: 40px !important;
+      margin-left: 83px !important ;
+      width:600px !important;
+      height: 340px !important;
+    }
+
+    .openingtext {
+      margin-left: 330px !important;
+    }
+
+    .openingbig {
+      font-size: 31px !important;
+      margin-top: 30px !important;
+      margin-left: 140px !important;
+    }
+
+    .openingpara {
+      margin-top: 25px !important;
+      margin-left: 90px !important;
+    }
+
+   .card1 {
+    width: 350px !important;
+    height: 300px !important;
+    margin-left: -180px !important;
+   }
+
+   .card1 .fa-quote-right {
+    display: flex !important;
+  font-size: 50px !important;
+  color: #7a7a7a !important;
+  margin-top: -50px !important;
+  margin-left: 200px !important;
+}
+
+.card3 {
+  width: 350px !important;
+  height: 300px !important;
+  margin-left: -220px !important;
+ }
+
+ .card3 .fa-quote-right {
+  display: flex !important;
+font-size: 50px !important;
+color: #7a7a7a !important;
+margin-top: -50px !important;
+margin-left: 200px !important;
+}
+
+.card4 {
+  width: 350px !important;
+  height: 300px !important;
+  margin-left: -260px !important;
+ }
+
+ .card4 .fa-quote-right {
+  display: flex !important;
+font-size: 50px !important;
+color: #7a7a7a !important;
+margin-top: -50px !important;
+margin-left: 200px !important;
+}
+
+.card5 {
+  width: 350px !important;
+  height: 300px !important;
+  margin-left: -300px !important;
+ }
+
+ .card5 .fa-quote-right {
+  display: flex !important;
+font-size: 50px !important;
+color: #7a7a7a !important;
+margin-top: -50px !important;
+margin-left: 200px !important;
+}
+
+
+.card6 {
+  width: 350px !important;
+  height: 300px !important;
+  margin-left: -340px !important;
+ }
+
+ .card6 .fa-quote-right {
+  display: flex !important;
+font-size: 50px !important;
+color: #7a7a7a !important;
+margin-top: -50px !important;
+margin-left: 200px !important;
+}
+
+
+  }

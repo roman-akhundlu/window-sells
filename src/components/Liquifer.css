@@ -452,3 +452,87 @@ margin-left: -460px;
       margin-left: -1118px  !important;
     }
   }
+
+
+  @media(min-width:765px) and (max-width:768px) {
+
+    .sliderman {
+      background-color: #212121 !important;
+      height: 43vh !important;
+    }
+
+    .swipimgcorusel1 {
+      margin-left: 30px !important;
+      width: 703px !important;
+    }
+
+    .swipimgcorusel2 {
+      margin-left: 30px !important;
+      width: 703px !important;
+    }
+
+    .swipimgcorusel3 {
+      margin-left: 30px !important;
+      width: 703px !important;
+    }
+
+    .shortparagraph {
+      margin-top: 30px !important;
+      margin-left: 40px !important;
+    }
+
+    .longparagraph {
+      margin-top: 30px !important;
+    }
+
+    .startproject {
+      display: flex !important;
+      margin-left: 250px !important;
+      font-size: 21px !important;
+      margin-top: -100px !important;
+    }
+
+    .seeall {
+      display: flex !important;
+      margin-left: -60px !important;
+      justify-content: center !important;
+      margin-top: 50px !important;
+       font-size: 21px !important;
+    }
+
+
+    .hypnothis {
+      margin-top: 730px !important;
+    }
+
+    .backimg img {
+      width: 763px !important;
+      height: 530px !important;
+    }
+
+    .backimg h5 {
+      margin-top: -460px !important;
+      font-size: 30px !important;
+      margin-left: 340px !important;
+    }
+
+    .firsth4 {
+      margin-top: 37px !important;
+      font-size: 40px !important;
+      margin-left: 166px !important;
+    }
+
+    .service1{
+      margin-top: -40px !important;
+    }
+
+    .service3 {
+      margin-top: 180px !important;
+      margin-left: -720px !important;
+    }
+
+    .service4 {
+      margin-top: 20px !important;
+      margin-left: -730px !important;
+    }
+  }
