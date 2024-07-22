@@ -211,3 +211,13 @@ margin-left: -1px !important;
     font-size: 35px !important;
   }
 }
+
+@media(min-width:357px) and (max-width:360px) {
+  .navbar-brand img {
+    margin-left: 35px !important;
+}
+
+.navbar-toggler-icon {
+  margin-left: 130px !important;
+}
+}

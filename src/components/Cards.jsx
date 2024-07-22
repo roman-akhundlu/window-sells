@@ -42,6 +42,9 @@ const Cards = () => {
             slidesPerView: 1,
             spaceBetween: 40,
           },
+          360:{
+            slidesPerView:1
+          },
           768: {
             slidesPerView: 2,
             spaceBetween: 40,

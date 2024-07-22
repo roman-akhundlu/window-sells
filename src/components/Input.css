@@ -525,3 +525,111 @@ font-size: 22px !important;
     width: 700px !important;
   }
 }
+
+
+@media(min-width:357px) and (max-width:360px) {
+  .premaking img {
+    width: 355px !important;
+    height: 1200px !important;
+  }
+
+  .premaking{
+    margin-top: 50px !important;
+  }
+
+  .problematicpart {
+    opacity: 1 !important;
+    display: block !important;
+    margin-top: -80px !important;
+  }
+
+.problematicpart h1 {
+  margin-left: 136px !important;
+  margin-top: -1260px !important;
+}
+
+.creativitypara {
+  margin-left: 36px !important;
+  margin-top: 25px !important;
+}
+
+.callback {
+  font-size: 33px !important;
+  margin-left: 56px !important;
+}
+
+.fa-phone {
+  margin-top: 20px !important;
+  margin-left: 34px !important
+}
+
+.phonenumber {
+  margin-left: 60px !important;
+  margin-top: -30px !important;
+}
+
+.fa-envelope {
+  padding-top: 20px !important;
+  margin-left: 34px !important;
+}
+
+.emaddress {
+  display: flex !important;
+  margin-top: 56px !important;
+  margin-left: 60px !important;
+}
+
+.fa-location-dot {
+  margin-left: 200px !important;
+  margin-top: -84px !important;
+  box-sizing: border-box !important;
+  flex-direction: column !important;
+}
+
+.ztreet {
+  margin-top: -110px !important;
+  margin-left: 230px !important;
+}
+
+.fa-user {
+  margin-left: 34px !important;
+  margin-top: -25px !important;
+}
+
+.webzite {
+  margin-top: -26px !important;
+  margin-left: 59px !important;
+}
+
+
+input,textarea {
+  width: 270px !important;
+}
+
+textarea {
+  margin-top: 170px !important;
+}
+
+.namewrite {
+  margin-top: -430px !important;
+}
+
+ .lastwrite {
+  display: flex !important;
+  margin-left: 46px !important;
+  margin-top: -390px !important;
+}
+
+.subwrite {
+  margin-left: 36px !important;
+  margin-top: 30px !important;
+}
+
+.mail {
+  margin-left: 36px !important;
+  margin-top:35px !important;
+}
+.messager {
+  margin-top: 20px !important;
+}
+}

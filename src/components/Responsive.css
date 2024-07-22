@@ -335,3 +335,55 @@
 }
 
 
+@media(min-width:357px) and (max-width:360px) {
+.teamview img {
+  width: 355px !important;
+  height: 66vh !important;
+}
+
+.texts h1 {
+  font-size: 20px !important;
+  margin-top: -123px !important;
+  margin-left:90px !important;
+}
+
+.texts h2 {
+  font-size: 36px !important;
+  margin-top: -290px !important;
+  margin-left:60px !important;
+}
+
+.texts p {
+  margin-top: 117px !important;
+  margin-left: 45px !important;
+}
+
+.texts p span {
+  opacity: 0 !important;
+}
+
+.awards img {
+  width: 230px !important;
+}
+
+.award1 {
+  margin-top: -310px !important;
+  margin-left: 40px !important;
+}
+
+.award2 {
+  margin-top: -30px !important;
+  margin-left: -230px !important;
+}
+
+.award3 {
+  margin-top: 270px !important;
+  margin-left: -226px !important;
+}
+
+.card-body {
+  margin-top: 10px !important;
+  margin-left: 25px !important;
+  width: 315px !important;
+}
+}

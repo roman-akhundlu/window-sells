@@ -717,3 +717,122 @@ margin-left: 200px !important;
 
 
   }
+
+
+  @media(min-width:357px) and (max-width:360px) {
+        .stories img {
+          width: 323px !important;
+          height: 210px !important;
+        }  
+
+        .stories h1 {
+          margin-top: 160px !important;
+          margin-left: 150px !important;
+        }
+
+        .stories h2 { 
+          margin-left: 55px !important;
+          margin-top: 30px !important;
+        }
+
+        .firstparastor,.secondparastor {
+          margin-left: 40px !important;
+        }
+
+        .stories h3,h4 {
+          margin-top: 10px !important;
+        }
+
+        .stories img {
+          margin-left: 23px !important;
+          margin-top: 40px !important;
+        }
+
+
+        .openingtext {
+          margin-left: 110px !important;
+          margin-top: 150px !important;
+        }
+
+        .openingbig {
+          margin-left:50px !important ;
+          margin-top: 30px !important;
+        }
+
+        .openingpara {
+          margin-left: 35px !important;
+          margin-top: 20px !important;
+        }
+
+        .card1 {
+          width: 350px !important;
+          height: 300px !important;
+          margin-left: -1px !important;
+         }
+      
+         .card1 .fa-quote-right {
+          display: flex !important;
+        font-size: 50px !important;
+        color: #7a7a7a !important;
+        margin-top: -50px !important;
+        margin-left: 200px !important;
+      }
+      
+      .card3 {
+        width: 350px !important;
+        height: 300px !important;
+        margin-left: -1px !important;
+       }
+      
+       .card3 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+      }
+      
+      .card4 {
+        width: 350px !important;
+        height: 300px !important;
+        margin-left: -1px !important;
+       }
+      
+       .card4 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+      }
+      
+      .card5 {
+        width: 350px !important;
+        height: 300px !important;
+        margin-left: 2px !important;
+       }
+      
+       .card5 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+      }
+      
+      
+      .card6 {
+        width: 350px !important;
+        height: 300px !important;
+        margin-left: 10px !important;
+       }
+      
+       .card6 .fa-quote-right {
+        display: flex !important;
+      font-size: 50px !important;
+      color: #7a7a7a !important;
+      margin-top: -50px !important;
+      margin-left: 200px !important;
+      }
+      
+      }

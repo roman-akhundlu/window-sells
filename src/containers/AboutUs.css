@@ -862,3 +862,13 @@ width: 240px;
       margin-left: 460px !important;
     }
   }
+
+
+  @media(min-width:357px) and (max-width:360px) {
+    .invisimg {
+      width: 355px !important;
+    }
+
+
+    
+  }
