@@ -993,3 +993,194 @@ line-height: 1.5 !important;
     }
 
   }
+
+
+  @media(min-width:357px) and (max-width:360px) {
+    .invisimg2 {
+      width: 355px !important;
+    }
+
+   
+
+    .firstlinkcard {
+      margin-top: 120px !important;
+      width: 280px !important;
+      height: 260px !important;
+    }
+
+    .firstlinkcard2 img {
+      width: 275px !important;
+      height: 470px !important;
+    }
+
+    .firstlinkcard2 h1 {
+      margin-left: 80px !important;
+    }
+
+    .firstlinkcard2 h2 {
+      margin-left: 87px !important;
+    }
+
+    .firstlinkcard2 p {
+      margin-left: 80px !important;
+    }
+
+    .firstlinkcard2 .ContactUs {
+      margin-left: 95px !important;
+    }
+
+
+    .postrightpara1 {
+      margin-left: 10px !important;
+      margin-top: 60px !important;
+    }
+
+    .postrightpara2 {
+      margin-left: 10px !important;
+      margin-top: 60px !important;
+    }
+
+    .postrightpara3 {
+      margin-left: 10px !important;
+      margin-top: 60px !important;
+    }
+
+    .postrightpara4 {
+      margin-left: 10px !important;
+      margin-top: 60px !important;
+    }
+
+    .postrightpara5 {
+      margin-left: 10px !important;
+      margin-top: 60px !important;
+    }
+
+    .postrightside img {
+      width: 350px !important;
+      height: 250px !important;
+      margin-left: 10px !important;
+      margin-top: 90px !important;
+    }
+
+    .bord {
+      margin-left: 14px !important;
+      width: 87% !important;
+    }
+
+    .linkdiv h1 {
+      display: flex !important;
+      margin-top: -40px !important;
+      margin-left:40px !important;
+    }
+
+    .fa-facebook {
+    padding-bottom: 1px !important;
+      margin-left: 1px !important;
+    }
+
+    .fa-twitter {
+  margin-left: 1px !important;
+    }
+
+    .fa-whatsapp {
+      margin-top: -10px !important;
+      margin-left: 110px !important;
+    }
+
+
+    .belowfooter img {
+      height: 534px !important;
+      width: 355px !important;
+    }
+
+    .belowfooter h1 {
+      margin-left: 40px !important;
+      margin-top: -500px !important;
+    }
+
+    .belowfooter h2 {
+      margin-left: 50px !important;
+      margin-top: 30px !important;
+    }
+
+    .belowfooter p {
+      margin-top: 20px !important;
+      margin-left: 30px !important;
+    }
+
+    .belowfooter a {
+      margin-top: 19px !important;
+      margin-left: 76px !important;
+    }
+
+
+    .secondsteppost {
+      margin-top: 80px !important;
+    }
+    
+    .bigtwopost {
+      font-size: 28px !important;
+      margin-left: 40px !important;
+        }
+    
+    
+    .bigtwopost span {
+      display: block !important;
+        position: absolute !important;
+        bottom: -40px !important;
+        left: -35px !important;
+        width: 100% !important ;
+        text-align: center !important;
+    }
+    
+    .cartoonyorangepost {
+      margin-left: 27px !important;
+      font-size: 18px !important;
+    }
+    
+    .facebookpost {
+      margin-left: 33px !important;
+    }
+    
+    .linkedinpost {
+      margin-left: 33px !important;
+      margin-top: 30px !important;
+    }
+    
+    .instagrampost {
+      margin-left: 180px !important;
+      margin-top: -35px !important;
+    }
+    
+    .twitterpost {
+      margin-top: -33px !important;
+      margin-left: 200px !important;
+    }
+    
+    .youtubepost {
+      margin-top: 33px !important;
+      margin-left: 117px !important;
+    }
+    
+    .sociallinkspost {
+      margin-top: 45px !important;
+    }
+    
+    .endbackimgpost {
+      margin-top: 150px !important;
+      width: 355px !important;
+    }
+    
+    .endmainimgpost {
+      margin-left: 70px !important;
+      margin-top: -100px !important;
+    }
+    
+    .endinghsixpost {
+      font-size: 23px !important;
+      margin-top: 30px !important;
+      margin-left: 35px !important;
+    }
+    
+
+  }

@@ -57,7 +57,7 @@ const Aboutus = () => {
   <div className='LeftUpperFooter'>
   <h1 className='ls-2 lh-1'>STUDIO</h1>
   <h2 className='quicksand cormorant'>CINESTAR STAGE</h2>
-  <p className='LeftUpperPara'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, <br /> pulvinar dapibus leo.</p>
+  <p className='LeftUpperPara'>Lorem ipsum dolor sit amet, consectetur adipiscin elit. Ut elit tellus, luctus nec ullamcorper mattis, <br /> pulvinar dapibus leo.</p>
   </div>
 
 
@@ -70,7 +70,7 @@ const Aboutus = () => {
     </div>
 
 
-    <p className='LeftUpperPara2'>Fusce nec mauris purus. Vestibulum ut sagittis turpis, ac dapibus libero. Curabitur sed leo dictum, <br /> pellentesque lorem nec, sagittis magna. Proin dictum nisl nec volutpat convallis. Maecenas <br /> ullamcorper sed urna non tristique.</p>
+    <p className='LeftUpperPara2'>Fusce nec mauris purus. Vestibulum ut sagittis turpis, ac dapibus libero. Curabitur sed leo dictum <br /> pellentesque lorem nec, sagittis magna. Proin dictum nisl nec volutpat convallis. Maecenas <br /> ullamcorper sed urna non tristique.</p>
 
     <Link to="/aboutus" className='roboto-bold MapLocation quicksand cormorant'>Map Location</Link>
   
