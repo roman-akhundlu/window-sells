@@ -1,9 +1,20 @@
 import React from 'react'
 import './Input.css';
+import { ToastContainer,toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+const notify = () => {
+  toast("✅WOW YOU CLICKED THE BUTTON ")
+}
+
+
+
 
 const Inputbe = () => {
   return (
+
     <>
+
        <section className='premaking'>
         <img src="../src/assets/photos/making.jpg" alt="" />
         <div className='imputtext'>
@@ -12,8 +23,9 @@ const Inputbe = () => {
         <input type="email" placeholder='Email' className='form-control p-3 mail' />
         <input type="text" placeholder='Subject' className='form-control p-3 subwrite' />
         <textarea name="message" id="message" className='form-control message' placeholder='Message'></textarea>
-      <button href="#" className='roboto-bold messager'>Send Message</button>
+      <button href="#" className='roboto-bold messager' onClick={notify}>Send Message</button>
       <p className='warning roboto-bold'>We will contact you back within 24 hours via email.</p>
+      <ToastContainer/> 
         </div>
 
         <div className='problematicpart'>
