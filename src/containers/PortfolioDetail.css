@@ -80,6 +80,7 @@
     height: 480px;
     margin-top: -155px;
     filter: grayscale(100%) brightness(50%);
+    object-fit: cover;
 }
 
 

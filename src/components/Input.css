@@ -82,6 +82,7 @@
     opacity: 0.3;
     height: 700px;
     filter: brightness(1000px);
+    object-fit: cover;
   }
   
   

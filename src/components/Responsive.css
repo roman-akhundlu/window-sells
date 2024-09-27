@@ -75,6 +75,7 @@
     width: 1517px;
     height: 85vh;
     filter: brightness(75%);
+    object-fit: cover;
 }
 
 
